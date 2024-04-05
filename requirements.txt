@@ -1,0 +1,2 @@
+neuralforecast==1.7.0
+pandas==2.2.1
